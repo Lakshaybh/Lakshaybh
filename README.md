@@ -1,5 +1,4 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
 
 <p align="center">
   <em>Data Science & AI Undergrad &nbsp;|&nbsp; Python · ML · LLMs · Prompt Engineering</em>
@@ -103,6 +102,7 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 I'm always excited to connect with people who **think boldly and build passionately**. Whether it's a data science project, an AI idea, or just a conversation — feel free to reach out!
 
 <p align="center">
+  ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
   <a href="https://www.linkedin.com/in/lakshay-sharma1981/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
