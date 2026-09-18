@@ -1,14 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6a3de8&height=200&section=header&text=Lakshay%20Sharma&fontSize=50&fontColor=a78bfa&animation=fadeIn&fontAlignY=35)<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6a3de8&height=200&section=header&text=Lakshay%20Sharma&fontSize=50&fontColor=a78bfa&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <em>Data Science & AI Undergrad &nbsp;|&nbsp; Python · ML · LLMs · Prompt Engineering</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Undergrad;Python+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Prompt+Engineering;Turning+messy+data+into+real+insights;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshay-sharma1981/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=lakshaysharma1981&style=for-the-badge&color=6a3de8" alt="Profile views" />
 </p>
 
 ---
@@ -94,7 +94,20 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 
 ---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshaysharma1981&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaysharma1981&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaysharma1981&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaysharma1981&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
@@ -108,10 +121,8 @@ I'm always excited to connect with people who **think boldly and build passionat
   </a>
 </p>
 
----
-
 <p align="center">
   <em>"A mindset that refuses to stop learning."</em>
 </p>
 
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a3de8,100:1a1a2e&height=150&section=footer)
