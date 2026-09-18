@@ -1,5 +1,4 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6a3de8&height=200&section=header&text=Lakshay%20Sharma&fontSize=50&fontColor=a78bfa&animation=fadeIn&fontAlignY=35)<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
 
 
 <p align="center">
