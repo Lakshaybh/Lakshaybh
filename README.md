@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/lakshay-sharma1981/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lakshaysharma1981&style=for-the-badge&color=6a3de8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lakshaybh&style=for-the-badge&color=6a3de8" alt="Profile views" />
 </p>
 
 ---
@@ -26,36 +26,37 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 
 ## 🛠️ Technical Skills
 
-### 🗄️ Query & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🐍 Languages & Core Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,fastapi&theme=dark" />
+</p>
 
 ### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=E97627)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Power Query](https://img.shields.io/badge/Power%20Query-0D1117?style=flat-square&logo=microsoft&logoColor=7FBA00)
 
 ### ☁️ Big Data & Cloud
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0D1117?style=flat-square&logo=databricks&logoColor=00ADD8)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🐼 Data & ML Libraries
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E70488)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=3776AB)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
 ### 🤖 AI & LLM Engineering
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/Claude%20API-0D1117?style=flat-square&logo=anthropic&logoColor=CC785C)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75FF)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=flat-square&logo=databricks&logoColor=FF6B6B)
+![GenAI](https://img.shields.io/badge/Generative%20AI-0D1117?style=flat-square&logo=openai&logoColor=A78BFA)
 
 ### 📐 Data Framework & Governance
 | Area | Skills |
@@ -64,11 +65,10 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 | Governance & Ops | Data Documentation · KPI Design · Data Quality Checks · Reconciliation |
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Databricks Workflows](https://img.shields.io/badge/Databricks%20Workflows-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Auto Loader](https://img.shields.io/badge/Auto%20Loader-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4)
+![Databricks Workflows](https://img.shields.io/badge/Databricks%20Workflows-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![Auto Loader](https://img.shields.io/badge/Auto%20Loader-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
 ---
 
 ## 🚀 Projects
@@ -97,16 +97,16 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshaysharma1981&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaysharma1981&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshaybh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaybh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaysharma1981&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaysharma1981&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaybh&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
