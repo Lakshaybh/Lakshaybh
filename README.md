@@ -97,19 +97,21 @@ I'm a curious, driven Data Science enthusiast pursuing my **B.Tech at KCC Instit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshaybh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaybh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=lakshaybh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaybh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=lakshaybh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshaybh&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lakshaybh&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" alt="Activity Graph" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshaybh&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+</p>---
 
 ## 🤝 Let's Connect
 
