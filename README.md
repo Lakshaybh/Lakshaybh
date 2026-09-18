@@ -1,4 +1,5 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+<h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
 
 <p align="center">
   <em>Data Science & AI Undergrad &nbsp;|&nbsp; Python · ML · LLMs · Prompt Engineering</em>
@@ -113,3 +114,4 @@ I'm always excited to connect with people who **think boldly and build passionat
 <p align="center">
   <em>"A mindset that refuses to stop learning."</em>
 </p>
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
