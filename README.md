@@ -1,6 +1,7 @@
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 <h1 align="center">Hi, I'm Lakshay Sharma 👋</h1>
 
+
 <p align="center">
   <em>Data Science & AI Undergrad &nbsp;|&nbsp; Python · ML · LLMs · Prompt Engineering</em>
 </p>
